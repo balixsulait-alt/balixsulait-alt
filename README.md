@@ -1,4 +1,4 @@
-<!-- Replace [Your Name] and [yourusername] with your actual name and GitHub username -->
+
 
 <h1 align="center">Hey there, I'm Sulaiman Balikoowa 👋</h1>
 
