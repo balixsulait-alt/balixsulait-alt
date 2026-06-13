@@ -3,7 +3,7 @@
 <h1 align="center">Hey there, I'm Sulaiman Balikoowa 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Dev · Ethical Hacker · Big Data Nerd · Future Founder 🚀</b>
+  <b>Full-Stack Dev · Ethical Hacker · Big Data Nerd · Future Founder by 2030🚀</b>
 </p>
 
 <p align="center">
