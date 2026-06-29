@@ -90,7 +90,7 @@
 
 - 🔭 Working on full-stack projects & sharpening cybersecurity skills
 - 🌱 Learning advanced penetration testing & big data pipelines
-- 🤝 Open to collaborations on open source & interesting builds
+- 🤝 Open to collaborations on open-source & interesting builds
 - 💡 Ideating my **2030 startup** — watch this space 👀
 
 ---
