@@ -90,27 +90,14 @@
 ## 🔐 Cybersecurity Focus
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackthebox/hackthebox-original.svg" height="40" alt="hackthebox logo" />
+  <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" height="40" alt="hackthebox logo" />
   <img width="12" />
-  <img src="https://api.iconify.design/simple-icons:metasploit.svg?color=%233f5b96" height="40" alt="metasploit logo" />
+  <img src="https://cdn.simpleicons.org/metasploit/3F5B96" height="40" alt="metasploit logo" />
   <img width="12" />
-  <img src="https://api.iconify.design/simple-icons:wireshark.svg?color=%23243256" height="40" alt="wireshark logo" />
+  <img src="https://cdn.simpleicons.org/wireshark/243256" height="40" alt="wireshark logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo" />
 </div>
-
-###
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" width="60%" />
-</p>
 
 ###
 
