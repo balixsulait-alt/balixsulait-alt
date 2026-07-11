@@ -20,7 +20,7 @@
 - 🔴 Red team thinker | Penetration Testing | Digital Forensics | Ethical Hacking
 - 📊 Big data enthusiast always crunching, always learning
 - 🌐 Open source contributor | Open to collabs & opportunities
-- 👀 Quietly cooking a startup; **Target: 2030**
+- 👀 Busy cooking a startup; **Target: 2030**
 - 📬 Reach me at: **balixsulait@gmail.com**
 
 ###
