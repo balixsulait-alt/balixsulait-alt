@@ -19,7 +19,7 @@
 
 ## 👤 About Me
 
-- 💻 Full-stack developer fluent in **Python, JS/TS, React, Next.js, Node.js, PHP, Laravel, Django, Dart, Flutter, Java, HTML5, SQL, Oracle & MongoDB**
+- 💻 Full-stack developer fluent in **Python, C#, C++, JS/TS, React, Next.js, Node.js, PHP, Laravel, Django, Dart, Flutter, Java, HTML5, SQL, Oracle & MongoDB**
 - 🔴 Red team thinker | Penetration Testing | Digital Forensics | Ethical Hacking
 - 📊 Big data enthusiast always crunching, always learning
 - 🌐 Open source contributor | Open to collabs & opportunities
