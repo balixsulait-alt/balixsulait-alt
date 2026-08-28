@@ -2,15 +2,9 @@
 
 ###
 
-<p align="left">
-  <b>Full-Stack Dev · Ethical Hacker · Big Data Nerd · Future Founder by 2030 🚀</b>
-</p>
-
-###
-
-<!-- Animated Tech Illustration Header (Matrix Green / Cyber Style) -->
+<!-- Matrix Code Stream Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" style="filter: hue-rotate(260deg) saturate(1.8) contrast(1.1); borderRadius: 8px;" alt="Cybersecurity & Tech Setup Animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTYyc3ZocmFlbnVqejllZ3Y0bzFldmZndWNzOXFtdWVrdWptemkyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svv20/giphy.gif" width="100%" height="220" alt="Matrix Code Stream" />
 </p>
 
 ###
