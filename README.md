@@ -2,14 +2,16 @@
 
 ###
 
-<!-- Animated Header Banner (Cybersecurity & Big Data Theme) -->
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003b00,100:00ff66&height=220&section=header&text=RED%20TEAM%20%7C%20PENETRATION%20TESTING%20%7C%20BIG%20DATA&fontSize=22&fontColor=ffffff&fontAlignY=40&animation=twinkling" width="100%" alt="Header Banner" />
+<!-- Cybersecurity & Big Data Animated Banner Header -->
+<p align="center">
+  <a href="https://github.com/balixsulait-alt">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090d16,50:002b11,100:00ff66&height=200&section=header&text=RED%20TEAM%20%7C%20PENETRATION%20TESTING%20%7C%20BIG%20DATA&fontSize=22&fontColor=ffffff&fontAlignY=50&animation=twinkling" width="100%" alt="Header Banner" />
+  </a>
 </p>
 
 ###
 
-<!-- Typing Animation Stream -->
+<!-- Dynamic Typing SVG Stream -->
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&width=650&lines=Full-Stack+Developer+%7C+Ethical+Hacker;Red+Team+Thinker+%26+Penetration+Tester;Big+Data+Pipeline+Builder;Building+a+Startup+by+2030+%F0%9F%9A%80" alt="Typing SVG Animation" />
 </p>
