@@ -2,9 +2,9 @@
 
 ###
 
-<!-- Hacking Terminal Animated Banner -->
+<!-- Animated Tech Workstation Banner (GitHub Native CDN) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PKief/PKief/static/assets/terminal.gif" width="100%" alt="Hacking Terminal Loop" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52310-816d-4952-b883-7c0a6b7dbe02.gif" width="100%" alt="Cyber Security Workstation Animation" />
 </p>
 
 ###
