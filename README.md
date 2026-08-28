@@ -2,9 +2,15 @@
 
 ###
 
-<!-- Animated Tech Workstation Banner (GitHub Native CDN) -->
+<p align="left">
+  <b>Full-Stack Dev · Ethical Hacker · Big Data Nerd · Future Founder by 2030 🚀</b>
+</p>
+
+###
+
+<!-- Animated Tech Illustration Header (Matrix Green / Cyber Style) -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52310-816d-4952-b883-7c0a6b7dbe02.gif" width="100%" alt="Cyber Security Workstation Animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" style="filter: hue-rotate(260deg) saturate(1.8) contrast(1.1); borderRadius: 8px;" alt="Cybersecurity & Tech Setup Animation" />
 </p>
 
 ###
