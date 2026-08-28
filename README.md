@@ -2,15 +2,16 @@
 
 ###
 
-<!-- Cybersecurity & Tech Header Banners -->
+<!-- Animated Header Banner (Cybersecurity & Big Data Theme) -->
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f172a,100:00ff66&height=200&section=header&text=Ethical%20Hacker%20%7C%20Full-Stack%20Dev%20%7C%20Big%20Data&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003b00,100:00ff66&height=220&section=header&text=RED%20TEAM%20%7C%20PENETRATION%20TESTING%20%7C%20BIG%20DATA&fontSize=22&fontColor=ffffff&fontAlignY=40&animation=twinkling" width="100%" alt="Header Banner" />
 </p>
 
 ###
 
+<!-- Typing Animation Stream -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&width=600&lines=Full-Stack+Developer;Red+Team+Thinker+%26+Penetration+Tester;Big+Data+Enthusiast;Future+Founder+by+2030+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&width=650&lines=Full-Stack+Developer+%7C+Ethical+Hacker;Red+Team+Thinker+%26+Penetration+Tester;Big+Data+Pipeline+Builder;Building+a+Startup+by+2030+%F0%9F%9A%80" alt="Typing SVG Animation" />
 </p>
 
 ###
@@ -41,7 +42,7 @@
 
 ### 🤖 AI & Machine Learning:
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,anaconda&theme=dark" height="50" alt="ML Frameworks" />
-<img src="https://cdn.simpleicons.org/numpy/013243" width="50" alt="NumPy" />
+<img src="https://cdn.simpleicons.org/numpy/00FF66" width="50" alt="NumPy" />
 <img src="https://cdn.simpleicons.org/pandas/150458" width="50" alt="Pandas" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50" alt="Jupyter" />
 <img src="https://cdn.simpleicons.org/keras/D00000" width="50" alt="Keras" />
