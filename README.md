@@ -2,9 +2,9 @@
 
 ###
 
-<!-- Matrix Code Stream Banner -->
+<!-- Hacking Terminal Animated Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTYyc3ZocmFlbnVqejllZ3Y0bzFldmZndWNzOXFtdWVrdWptemkyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svv20/giphy.gif" width="100%" height="220" alt="Matrix Code Stream" />
+  <img src="https://raw.githubusercontent.com/PKief/PKief/static/assets/terminal.gif" width="100%" alt="Hacking Terminal Loop" />
 </p>
 
 ###
