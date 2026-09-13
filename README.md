@@ -27,7 +27,7 @@
 <h2 align="left">👤 About Me</h2>
 
 <p align="left">
-  ✨ Code it. Break it. Secure it. Analyze it.<br>
+  ✨ Code it. Break it. Secure it.<br>
   🔴 <b>Security Focus:</b> Red team thinker | Penetration Testing | Digital Forensics | Ethical Hacking<br>
   📊 <b>Data & Dev:</b> Big Data enthusiast crunching pipelines & full-stack applications<br>
   🎯 <b>Goals:</b> Building & launching my own Startup by 2030 🚀<br>
